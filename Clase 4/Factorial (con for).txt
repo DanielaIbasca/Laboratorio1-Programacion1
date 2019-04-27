@@ -1,0 +1,14 @@
+int main()
+{
+    int i;
+    int numero= 5;
+    int acumulador= 1;
+
+    for(i=numero; i>0; i--)
+    {
+        acumulador= acumulador * i;
+    }
+    printf("%d\n", acumulador);
+
+    return 0;
+}

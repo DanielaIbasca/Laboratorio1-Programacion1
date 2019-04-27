@@ -1,0 +1,19 @@
+float funcionFactorial(float numero)
+{
+    float factorial;
+
+    if (numero==0)
+    {
+        factorial= 1;
+    }
+    else if (numero<0)
+    {
+        printf("No se puede realizar la factorizacion de un numero negativo);
+    }
+    else
+    {
+    factorial= numero*funcionFactorial(numero-1);
+    }
+
+    return factorial;
+}
