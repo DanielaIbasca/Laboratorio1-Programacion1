@@ -1,0 +1,1 @@
+Mostrar: Apellido, Nombres (primer letra en mayuscula y el resto en minuscula).
