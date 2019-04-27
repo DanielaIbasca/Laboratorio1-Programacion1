@@ -1,0 +1,9 @@
+git init
+git clone url
+git add . / Git add -A
+git commit -m "comentario" 
+git congif --global user.email "email"
+git congif --global user.name "name"
+git log
+git remote and origin url
+git push origin master 

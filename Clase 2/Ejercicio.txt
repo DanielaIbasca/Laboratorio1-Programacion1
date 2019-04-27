@@ -1,0 +1,18 @@
+Informe:
+
+Se ingresan solo numeros enteros (no se sabe cuantos).
+Los numeros tienen que estar entre -500 y 500.
+Utilizar banderas.
+
+
+Determinar:
+
+a) Cantidad de numeros pares.
+b) Cantidad de numeros positivos.
+c) Cantidad de numeros negativos.
+d) Cantidad de ceros.
+e) Promedio de numeros positivos.
+f) Maximo y minimo (en que orden se ingreso).
+g) La suma de los negativos.
+h) La diferencia entre negativos y positivos.
+i) Cantidad de numeros entre -239 y 5.
