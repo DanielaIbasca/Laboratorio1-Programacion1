@@ -1,0 +1,3 @@
+3- Por c / proveedor la cant. de productos.
+4- Precio promedio de los productos de c / proveedor.
+5- El / los proveedor / es que proporciona mas productos.
