@@ -1,2 +1,2 @@
-1- todos los productos con su proveedor.
-2- Por c/proveedor sus productos.
+- todos los productos con su proveedor.
+- Por c/proveedor sus productos.
