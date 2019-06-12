@@ -11,7 +11,7 @@ int main()
     /*********** TAREA ***********
     -COMPLETAR:
     -LLAMADAS A FUNCION.
-    -ARRARY DE EMPLEADOS.
+    -ARRAY DE EMPLEADOS.
     -MOSTRAR EMPLEADOS.
     *******************************/
 
